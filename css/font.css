@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url(../fonts/Montserrat-Bold.ttf) format('Truetype');
+    font-weight: 700px;
+}
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url(../fonts/Montserrat-Medium.ttf) format('Truetype');
+    font-weight: 500px;
+}
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url(../fonts/Montserrat-Regular.ttf) format('Truetype');
+    font-weight: 400px;
+}
+@font-face {
+    font-family: 'ProstoOne-Regular';
+    src: url(../fonts/ProstoOne-Regular.ttf) format('Truetype');
+    font-weight: 400px;
+}
